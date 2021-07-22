@@ -1,0 +1,246 @@
+.tableHead{
+background-color: rgb(243, 240, 240);
+
+}
+.searchProduct{
+  border: none !important;
+  width: 100%;
+}
+.search{
+  display: inline-flex;
+  padding-left: 12px;
+}
+.openMenuOff{
+  margin-right: 20px;
+}
+
+.openMenuOn{
+  float: left;
+  width: 250px;
+  /* margin-left: 250px; */
+  background-color: black;
+  height: 768px;
+}
+.firsticons{
+  margin-left: 19px;
+}
+
+.firsticonsplus{
+  margin-left: 19px;
+  font-size: xx-large;
+  color: blueviolet;
+}
+#dropdown-basic-button{
+  background-color: white;
+  color: black;
+  border-style:none ;
+}
+.producticons{
+  margin-left: 12px;
+  font-size: large;
+  
+}
+.firsticonsmain{
+  text-align: end;
+}
+
+.productfirst{
+  justify-content: space-between; 
+}
+.first{
+  justify-content: space-between;
+}
+.icons{
+
+  text-align: end;
+  
+  /* justify-content: space-between; */
+  
+
+
+}
+.forfilter{
+  text-align: end;
+}
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 0px solid #dee2e6 !important;
+}
+.table th, .table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 0px solid #dee2e6 !important;
+}
+.tableHead{
+  height: 55px ;
+}
+.tr{
+  height: 45px ;
+}
+.circleGreen{
+  color: rgb(75, 243, 75) !important;
+  font-size: 13px;
+}
+.circlegray{
+  color: rgb(204, 192, 192) !important;
+  font-size: 13px;
+}
+.tableBtn{
+  border-radius: 10px !important;
+  font-size: smaller !important;
+  font-weight: bolder !important;
+}
+
+#flexCheckDefault{
+  background-color: #818181;
+}
+#flexCheckDefault:checked{
+  background-color: blue !important;
+}
+.name{
+  padding-left: 10px;
+}
+.tableimage{
+  width: 55px;
+  height: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.tr{
+  background-color: white;
+}
+.tr:hover{
+  background-color: rgb(248, 242, 242);
+}
+/* close nav */
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  /* z-index: 1; */
+  top: 0;
+  left: 0;
+  background-color: rgb(246, 245, 245);
+  overflow: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+
+/* .sidenav a:hover {
+  color: #f1f1f1;
+} */
+.downarrows{
+  padding-left: 85px;
+  padding-right: 5px;
+}
+.downarrow{
+  padding-left: 70px;
+  padding-right: 5px;
+}
+.bad{
+  margin-left: 90px;
+}
+.susana{
+  font-weight: 500;
+}
+.footer{
+  padding-top: 130px;
+  position: fixed !important;
+}
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+color: rgb(248, 248, 54);
+  font-size: 36px;
+  margin-left: 5px;
+}
+.card-header{
+border-bottom: none !important;
+
+}
+
+.card-body{
+  background-color: rgb(246, 245, 245);
+  color: #818181;
+  font-weight: 400;
+  padding-left: 35px !important;
+}
+.card{
+  border: none !important;
+}
+.forsidenavClr{
+  color: rgb(46, 45, 45);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.drpdwn{
+  color: rgb(46, 45, 45);
+  font-size: 15px;
+  font-weight: 500;
+}
+.active1{
+
+  color:blueviolet !important;
+  font-size: 15px;
+  font-weight: 500;
+}
+.nonActive1{
+  color: rgb(46, 45, 45);
+  font-size: 15px;
+  font-weight: 500;
+}
+.active2{
+  color:blueviolet !important;
+  font-size: 15px;
+  font-weight: 500;
+}
+.nonActive2{
+  color: rgb(46, 45, 45);
+  font-size: 15px;
+  font-weight: 500;
+}
+.active3{
+  color:blueviolet !important;
+  font-size: 15px;
+  font-weight: 500;
+}
+.nonActive3{
+  color: rgb(46, 45, 45);
+  font-size: 15px;
+  font-weight: 500;
+}
+.active4{
+  color:blueviolet !important;
+  font-size: 15px;
+  font-weight: 500;
+}
+.nonActive4{
+  color: rgb(46, 45, 45);
+  font-size: 15px;
+  font-weight: 500;
+}
+.active5{
+  color:blueviolet !important;
+  font-size: 15px;
+  font-weight: 500;
+}
+.nonActive5{
+  color: rgb(46, 45, 45);
+  font-size: 15px;
+  font-weight: 500;
+}
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
